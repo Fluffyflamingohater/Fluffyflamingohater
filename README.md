@@ -4,7 +4,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="500" src="https://media.discordapp.net/attachments/1460726929463316563/1553717830313316453/HBfFdmgXUAAUjp4.png?ex=6ac22cfd&is=6ac0db7d&hm=6375085e07f4759593354666e081e4ffb8b9d4f5ce16cf3cabe49a619dd053d8&=&format=webp&quality=lossless&width=768&height=768"  />
+  <img data-importer="image" height="500" src="https://media.discordapp.net/attachments/1460726929463316563/1553717830313316453/HBfFdmgXUAAUjp4.png?ex=6ae9b9fd&is=6ae8687d&hm=5bc5b2e2191fca17627ae4d1f1961d0e92241a4137b56617d4d70e3f35b81b88&=&format=webp&quality=lossless&width=768&height=768"  />
 </div>
 
 ###
